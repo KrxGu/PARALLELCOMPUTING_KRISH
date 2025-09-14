@@ -39,5 +39,5 @@ This repository is a work in progress. My next steps are to:
 
 Feel free to reach out if you have any questions, suggestions, or just want to discuss HPC!
 
-*   **LinkedIn:** `[[LinkedIn Profile URL](https://www.linkedin.com/in/krish-gupta-51637b1b8)]`
+*   **LinkedIn:** `[[https://www.linkedin.com/in/krish-gupta-51637b1b8]]`
 *   **Email:** `[krishgupta2832@gmail.com]`
